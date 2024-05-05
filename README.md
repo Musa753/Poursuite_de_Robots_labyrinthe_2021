@@ -1,6 +1,8 @@
 Projet : Poursuite de Robots
 
 Ce projet consiste en la création d'un labyrinthe virtuel et l'implémentation d'algorithmes pour faire poursuivre deux robots à l'intérieur de celui-ci, le tout dans un seul fichier.
+
+
 Description
 
 Le but de ce projet est de simuler un environnement de labyrinthe où deux robots sont en mouvement. Le labyrinthe est généré aléatoirement et les robots doivent se déplacer à travers les couloirs pour atteindre une destination prédéfinie tout en évitant les obstacles.
