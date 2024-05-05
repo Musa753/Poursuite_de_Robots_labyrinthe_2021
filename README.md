@@ -32,6 +32,7 @@ Pour utiliser ce projet, vous pouvez suivre ces étapes :
 Contribuer
 
 Les contributions à ce projet sont les bienvenues ! Si vous souhaitez apporter des améliorations, des corrections de bugs, ou ajouter de nouvelles fonctionnalités, n'hésitez pas à soumettre une demande de fusion.
+
 Auteurs
 
 Ce projet a été développé par Moussa TRAORE
